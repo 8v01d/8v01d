@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img src=https://github.com/8v01d/8v01d/blob/main/gif/8v01d%20INTRO_WHITE.gif width="100%">
+
+<h1 align="center">Hi, I am 8v01d (infinite void).</h1>
+<h3 align="center">Canadian Creator/Coder/Artist. Coding Music/Sound/Audio (Tidal Cycles, Pure Data, Sonic Pi).</h3>
